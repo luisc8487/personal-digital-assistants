@@ -1,5 +1,11 @@
-function App() {
-  return <div>Profile Card!!!</div>;
+function ProfileCard({title, handle}) {
+  //   const {title, handle} = props;
+  return (
+    <div>
+      <div>Title is {title}</div>
+      <div>Hamdle is {handle}</div>
+    </div>
+  );
 }
 
-export default App;
+export default ProfileCard;
