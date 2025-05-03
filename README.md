@@ -2,6 +2,8 @@
 
 This project showcases a simple React application that displays profile cards for popular personal digital assistants (PDAs) like Alexa, Cortana, and Siri. The application is styled using the Bulma CSS framework.
 
+![pds-project](https://github.com/user-attachments/assets/ec276720-7dc3-4698-86c6-0d048eac5e69)
+
 ## Features
 
 - **React Components**: The project uses React components to create reusable and modular UI elements.
