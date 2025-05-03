@@ -31,7 +31,7 @@ import "bulma/css/bulma.css";
 1. Clone the repository:
 
 ```linux
-git clone <repository-url>
+git clone git@github.com:luisc8487/personal-digital-assistants.git
 cd pdas
 ```
 
